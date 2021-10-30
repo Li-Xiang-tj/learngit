@@ -10,3 +10,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Creating a new branch is quick.
 Creating a new branch is quick 太难了.
+Creating a new branch is quick AND simple.太难了
